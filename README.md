@@ -37,4 +37,4 @@ Proje Clean Architecture ve CQRS pattern'leri kullanılarak geliştirilmiştir. 
 - Clean Architecture
 - CQRS Pattern
 - Repository Pattern
-
+------
